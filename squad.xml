@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+
+<squad nick="ArmaPH">
+	<name>ArmA Philippines</name>
+	<email>email@example.com</email>
+	<web>www.facebook.com/groups/armaph</web>
+	<picture>logo.paa</picture>
+	<title>Task Force Philippines</title>
+  <member id="76561198108443605" nick="Rct WRXCharles">
+    <name>WRXCharles</name>
+    <email>ckc_97@yahoo.com</email>
+    <icq>Task Force Philippines</icq>
+    <remark>Recruit</remark>
+  </member>
+</squad>
